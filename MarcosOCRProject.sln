@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarcosOCRProject", "MarcosOCRProject\MarcosOCRProject.csproj", "{2F5E09B3-6642-4E4A-B1BA-EAC0A6C035EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileManagerAPI", "FileManagerAPI\FileManagerAPI.csproj", "{79934F6E-7335-40CA-9550-A46A40CCB962}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2F5E09B3-6642-4E4A-B1BA-EAC0A6C035EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F5E09B3-6642-4E4A-B1BA-EAC0A6C035EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F5E09B3-6642-4E4A-B1BA-EAC0A6C035EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79934F6E-7335-40CA-9550-A46A40CCB962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79934F6E-7335-40CA-9550-A46A40CCB962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79934F6E-7335-40CA-9550-A46A40CCB962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79934F6E-7335-40CA-9550-A46A40CCB962}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
