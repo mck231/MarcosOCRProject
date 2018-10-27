@@ -1,5 +1,5 @@
-import { Component, OnInit } from "@angular/core";
-import { HttpClient, HttpRequest, HttpEventType } from "@angular/common/http";
+import { Component, OnInit } from '@angular/core';
+import { HttpClient, HttpRequest, HttpEventType } from '@angular/common/http';
 
 @Component({
   selector: 'app-form-uploader',
