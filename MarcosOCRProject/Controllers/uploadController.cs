@@ -20,7 +20,8 @@ namespace Angular5FileUpload.Controllers
         public ActionResult UploadFile()
         {
             try
-            var file = Request.Form.Files[0];
+            {
+                var file = Request.Form.Files[0];
                 string folderName = "Upload";
                 string webRootPath = _hostingEnvironment.WebRootPath;
                 string newPath = Path.Combine(webRootPath, folderName);
